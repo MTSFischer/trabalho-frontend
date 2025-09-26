@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "trabalho-frontend",
+    "slug": "trabalho-frontend",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "trabalhofrontend",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {},
+    "web": {}
+  }
+}
