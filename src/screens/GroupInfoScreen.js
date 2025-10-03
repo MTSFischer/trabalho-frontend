@@ -2,8 +2,10 @@ import React from 'react';
 import { SafeAreaView, ScrollView, StyleSheet, Text, View } from 'react-native';
 
 const groupMembers = [
-  { name: 'Integrante 1', ra: 'RA0000000' },
-  { name: 'Integrante 2', ra: 'RA0000000' },
+  { name: 'Gabriel Henrique Gemelli', ra: '1134947' },
+  { name: 'Matias Fischer', ra: '7138422' },
+  { name: 'Fabricio Biasi Brunetto', ra: '1135495' },
+  { name: 'Gustavo Lopes De Melo', ra: '1134429' }
 ];
 
 export default function GroupInfoScreen() {
